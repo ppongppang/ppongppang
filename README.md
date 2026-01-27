@@ -33,3 +33,7 @@
 <br />
 <br />
 <br />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kingwhangzang&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingwhangzang&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+</div>
