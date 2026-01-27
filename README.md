@@ -30,10 +30,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-<br />
-<br />
-<br />
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingwhangzang&bg_color=180,00000000,&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingwhangzang&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ppongppang&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppongppang&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
 </div>
